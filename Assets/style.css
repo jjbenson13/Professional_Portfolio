@@ -71,4 +71,46 @@
 
 .card {
   padding-top: 0.7rem;
+  1 color: rgba(0, 0, 0, 0.7);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 20px;
+}
+
+.label {
+  padding-top: 1rem;
+  color: rgba(0, 0, 0, 0.7);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 20px;
+}
+
+.control {
+  color: rgba(0, 0, 0, 0.7);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 15px;
+}
+
+.textarea {
+  color: rgba(0, 0, 0, 0.7);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 15px;
+}
+
+.button1 {
+  background-color: hsl(48, 100%, 85%);
+  border: none;
+  color: rgba(0, 0, 0, 0.7);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 20px;
+  width: 5rem;
+  height: 3rem;
+}
+
+.button2 {
+  background-color: black;
+  border: none;
+  color: whitesmoke;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 20px;
+  width: 5rem;
+  height: 3rem;
 }
