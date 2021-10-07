@@ -8,6 +8,13 @@ Responsive design ensures that web applications render well on a variety of devi
 First, you will use the Bootstrap CSS Framework to create a mobile responsive portfolio. How do you deliver this? Here are some guidelines:
 
 * Create the following files files: `index.html`, `portfolio.html` and `contact.html`.
+![homePage png](https://user-images.githubusercontent.com/87809505/136383413-5065c738-507b-45be-9370-b5e5bcda44cd.png)
+
+![portfolio1 png](https://user-images.githubusercontent.com/87809505/136383428-2dbb7489-32e9-49f0-9ed8-61655d392d67.png)
+
+![portfolio2 png](https://user-images.githubusercontent.com/87809505/136383436-21cbb5fe-54e9-4f0f-ba50-2a1903da1807.png)
+
+![contact png](https://user-images.githubusercontent.com/87809505/136383443-fc866f77-5acd-475a-8fdd-9a104a30bc51.png)
 
 * Using Bootstrap, develop your portfolio site with the following items:
 
