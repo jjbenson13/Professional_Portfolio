@@ -39,7 +39,7 @@
 }
 
 .hero-body {
-  background-image: url(./desktop2.png);
+  background-image: url(./desktop3.png);
   width: auto;
   height: 650px;
   background-size: cover;
@@ -55,5 +55,20 @@
 .subtitle {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 20px;
-  color: hsl(48, 100%, 85%);
+  font-weight: bold;
+  color: rgba(0, 0, 0, 0.7);
+  padding-left: 27rem;
+  padding-top: 0.9rem;
+}
+
+.subtitle-body {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.7);
+  padding-left: 27rem;
+  padding-right: 29rem;
+}
+
+.card {
+  padding-top: 0.7rem;
 }
