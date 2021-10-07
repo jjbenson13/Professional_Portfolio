@@ -10,7 +10,7 @@ First, you will use the Bootstrap CSS Framework to create a mobile responsive po
 * Create the following files files: `index.html`, `portfolio.html` and `contact.html`.
 ![homePage png](https://user-images.githubusercontent.com/87809505/136383413-5065c738-507b-45be-9370-b5e5bcda44cd.png)
 
-![portfolio1 png](https://user-images.githubusercontent.com/87809505/136383428-2dbb7489-32e9-49f0-9ed8-61655d392d67.png)
+![Portfolio1_update](https://user-images.githubusercontent.com/87809505/136386832-e6e034c1-7ecf-4bc0-9251-621a1d84a56d.png)
 
 ![portfolio2 png](https://user-images.githubusercontent.com/87809505/136383436-21cbb5fe-54e9-4f0f-ba50-2a1903da1807.png)
 
